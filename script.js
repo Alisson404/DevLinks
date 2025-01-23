@@ -18,7 +18,4 @@ function toggleMode() {
       'Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo neon.' )
       
   }
-  
-  
-  
 } 
